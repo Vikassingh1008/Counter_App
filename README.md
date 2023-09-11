@@ -1,4 +1,4 @@
-Counter_App
+#Counter_App
 
 Cunter App is a simple web application built using JavaScript, HTML, and CSS that allows users to count up or down with customizable step values. Whether you need to keep track of inventory, count down to an event, or just want to count something for fun, Cunter App has you covered.
 
@@ -30,3 +30,8 @@ Create a pull request to the original repository, explaining the changes and why
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+
+
