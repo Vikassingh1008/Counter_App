@@ -1,0 +1,62 @@
+/* css reset */
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://wallpapercave.com/wp/wp9314293.jpg);
+  }
+  
+  /* designing the counter container */
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    box-shadow: 0 0 50px rgb(42, 206, 198);
+    padding: 20px;
+    border-radius: 50px;
+  }
+  .container h1{
+    color:yellow;
+  }
+  
+  /* designing the buttons */
+  button {
+    padding: 5px 15px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  #displayValue {
+    font-size: 25px;
+    padding: 5px 15px;
+    border: 2px solid black;
+    color:aqua;
+  }
+  #decrementBtn {
+    font-size: 25px;
+    padding: 5px 15px;
+    border: 2px solid black;
+    color:blue;
+  }
+  #incrementBtn {
+    font-size: 25px;
+    padding: 5px 15px;
+    border: 2px solid black;
+    color:blue;
+  }
+  #resetBtn {
+    font-size: 25px;
+    padding: 5px 15px;
+    border: 2px solid black;
+    color:red;
+  }
